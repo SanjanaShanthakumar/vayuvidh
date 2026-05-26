@@ -1,0 +1,8 @@
+__pycache__/ 
+.env 
+*.jsonl 
+cbg_chroma_db/ 
+notebooks/cbg_chroma_db/ 
+notebooks/*.jsonl 
+.ipynb_checkpoints/ 
+.streamlit/secrets.toml 
